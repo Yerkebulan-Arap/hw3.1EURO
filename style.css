@@ -1,0 +1,66 @@
+img{
+    height:200px;
+    width:170px;
+}
+p,h2{
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://sportishka.com/uploads/posts/2022-08/1660138222_15-sportishka-com-p-fon-dlya-futbolnoi-afishi-sport-krasivo-fo-15.jpg);
+    background-position: center;
+    width:auto;
+    margin:auto;
+}
+#group{
+    list-style-image: url(football.png);
+    font-size: 20px;
+}
+#poland{
+    list-style-image: url(poland.png);
+}
+#russia{
+    list-style-image: url(russia.png);
+}
+#czech{
+    list-style-image: url(czech.png);
+}
+#greece{
+    list-style-image: url(greece.png);
+}
+#germany{
+    list-style-image: url(germany.png);
+}
+#netherlands{
+    list-style-image: url(netherlands.png);
+}
+#portugal{
+    list-style-image: url(portugal.png);
+}
+#denmark{
+    list-style-image: url(denmark.png);
+}
+#spain{
+    list-style-image: url(spain.png);
+}
+#italy{
+    list-style-image: url(italy.png);
+}
+#croatia{
+    list-style-image: url(croatia.png);
+}
+#ireland{
+    list-style-image: url(ireland.png);
+}
+#ukraine{
+    list-style-image: url(ukraine.png);
+}
+#england{
+    list-style-image: url(england.png);
+}
+#france{
+    list-style-image: url(france.png);
+}
+#sweden{
+    list-style-image: url(sweden.png);
+}
